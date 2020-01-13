@@ -14,9 +14,15 @@ Thin-plate spline image warping
 
 ## Challenges associated with the SIDD
 
-[NTIRE 2019 Real Image Denoising Challenge - Track 1: Raw-RGB](https://competitions.codalab.org/competitions/21258)
+[NTIRE 2020 Real Image Denoising Challenge - Track 1: rawRGB](https://competitions.codalab.org/competitions/22230)
 
-[NTIRE 2019 Real Image Denoising Challenge - Track 2: sRGB](https://competitions.codalab.org/competitions/21266)
+[NTIRE 2020 Real Image Denoising Challenge - Track 2: sRGB](https://competitions.codalab.org/competitions/22231)
+
+[NTIRE 2019 Real Image Denoising Challenge - Track 1: Raw-RGB](https://competitions.codalab.org/competitions/21258) _(Unavailable due to a Codalab crash)_
+
+[NTIRE 2019 Real Image Denoising Challenge - Track 2: sRGB](https://competitions.codalab.org/competitions/21266) _(Unavailable due to a Codalab crash)_
+
+Report and results: [NTIRE 2019 Challenge on Real Image Denoising: Methods and Results](https://www.eecs.yorku.ca/~kamel/files/NTIRE_2019_Challenge_on_Real_Image_Denoising_Methods_and_Results.pdf)
 
 ### Paper
 
